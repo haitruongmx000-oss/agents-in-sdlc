@@ -106,7 +106,7 @@ Com a ajuda de uma skill de agente, você criou um novo PR que segue requisitos 
 - aprendeu como as skills são usadas pelo agente de IA.
 - criou um PR que segue as diretrizes com a ajuda da skill.
 
-As skills são perfeitas para tarefas, mas, para operações mais robustas, vale aproveitar [agentes personalizados][next-lesson], que serão o próximo tópico.
+As skills são perfeitas para tarefas. Em seguida, você [usará o MCP do Playwright][next-lesson] para testar o recurso de filtragem em um navegador.
 
 ## Recursos
 
@@ -115,7 +115,7 @@ As skills são perfeitas para tarefas, mas, para operações mais robustas, vale
 - [Repositório Agent Skills][agent-skills-repo]
 - [Agent Skills no awesome-copilot][awesome-copilot-skills]
 
-[previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[previous-lesson]: ../4-custom-instructions/
+[next-lesson]: ../6-mcp-playwright/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills
